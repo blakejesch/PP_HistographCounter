@@ -1,0 +1,6 @@
+﻿  HistogramCounter.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\owner\source\repos\histogramcounter\histogramcounter\histogramcounter.cpp(15): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\owner\source\repos\histogramcounter\histogramcounter\histogramcounter.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\owner\source\repos\histogramcounter\histogramcounter\histogramcounter.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HistogramCounter.vcxproj -> C:\Users\Owner\source\repos\HistogramCounter\Debug\HistogramCounter.exe
